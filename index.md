@@ -9,34 +9,35 @@
 
 ### Fundamentals
 
-### Fundamentals
-
 | Requirement | Korean | Definition |
 |---|---|---|
 | Etiquette | [Ye-ui](https://dict.naver.com/dict.search?query=%EC%98%88%EC%9D%98){:target="_blank"} (예의) | The foundational principle of etiquette and respectful conduct in Korean martial arts, emphasizing humility, proper behavior toward instructors and fellow students, and a disciplined attitude in training. |
+| Ki Breathing Method | [Dahn Juhn](https://dict.naver.com/dict.search?query=%EB%8B%A8%EC%A0%84){:target="_blank"} [Ki Bub](https://dict.naver.com/dict.search?query=%EA%B8%B0%EB%B2%95){:target="_blank"} (단전기법) | Breathing and energy cultivation exercises focused on the lower energy center (Dahn Juhn). These practices develop controlled breathing, concentration, and internal energy awareness, forming a foundation for internal power and mental focus in Kuk Sool training. |
 | Basic Breathing Exercises | [Ki Cho](https://dict.naver.com/dict.search?dicQuery=%EA%B8%B0%EC%B4%88%EC%9E%90%EA%B8%B0&query=%EA%B8%B0%EC%B4%88%EC%9E%90%EA%B8%B0&target=dic&ie=utf8&query_utf&isOnlyViewEE){:target="_blank"} [Jah Ki](https://dict.naver.com/dict.search?query=%EC%9E%90%EA%B8%B0){:target="_blank"} (기초자기) | Foundational breathing exercises used in Kuk Sool training to develop internal energy (Ki), body awareness, and controlled breathing. These exercises coordinate breath with posture and movement to support focus, balance, and internal power development. |
-| Falling / Breakfall Techniques | [Nak Bub](https://dict.naver.com/dict.search?dicQuery=%EB%82%99%EB%B2%95&query=%EB%82%99%EB%B2%95&target=dic&ie=utf8&query_utf&isOnlyViewEE){:target="_blank"} (낙법) | Fundamental falling and breakfall methods used to safely absorb impact and protect the body during throws or takedowns, developing body control, timing, and confidence when receiving techniques. |
-| Foot Techniques | [Johk Sool](https://dict.naver.com/dict.search?dicQuery=%EC%A1%B1%EC%88%A0&query=%EC%A1%B1%EC%88%A0&target=dic&ie=utf8&query_utf&isOnlyViewEE){:target="_blank"} (족술) | Techniques using the feet and legs in Kuk Sool training, including kicking, sweeping, and lower-body striking methods that develop balance, coordination, and effective lower-body mechanics. |
 | Hand Striking Techniques | [Soo Ki](https://dict.naver.com/dict.search?dicQuery=%EC%88%98%EA%B8%B0&query=%EC%88%98%EA%B8%B0&target=dic&ie=utf8&query_utf&isOnlyViewEE){:target="_blank"} (수기) | Fundamental hand and arm striking techniques practiced in Kuk Sool, including punches, open-hand strikes, and blocking methods that develop speed, precision, and proper upper-body mechanics. |
-
-
-
-
-
+| Foot Techniques | [Johk Sool](https://dict.naver.com/dict.search?dicQuery=%EC%A1%B1%EC%88%A0&query=%EC%A1%B1%EC%88%A0&target=dic&ie=utf8&query_utf&isOnlyViewEE){:target="_blank"} (족술) | Techniques using the feet and legs in Kuk Sool training, including kicking, sweeping, and lower-body striking methods that develop balance, coordination, and effective lower-body mechanics. |
+| Falling / Breakfall Techniques | [Nak Bub](https://dict.naver.com/dict.search?dicQuery=%EB%82%99%EB%B2%95&query=%EB%82%99%EB%B2%95&target=dic&ie=utf8&query_utf&isOnlyViewEE){:target="_blank"} (낙법) | Fundamental falling and breakfall methods used to safely absorb impact and protect the body during throws or takedowns, developing body control, timing, and confidence when receiving techniques. |
 
 ## Hyung
 
 | Requirement         | Status | Reference Video | My Video | Feedback | Action |
 | ------------------- | ------ | --------------- | -------- | -------- | ------ |
-| Baek Pahl Ki Hyung  |        |                 |          |          |        |
-| Joong Bong Il Hyung |        |                 |          |          |        |
-| Juhng Guhm Hyung    |        |                 |          |          |        |
-| Bong Dae Ryuhn      |        |                 |          |          |        |
-| Keun Dae Ryuhn (8)  |        |                 |          |          |        |
-| Jah You Dae Ryuhn   |        |                 |          |          |        |
-| Ki Cho Dahn Bong    |        |                 |          |          |        |
+| Ki Cho Hyung  |        |                 |          |          |        |
+| Cho Geup Hyung |        |                 |          |          |        |
+| Joong Geup Hyung    |        |                 |          |          |        |
+| Goh Geup Hyung      |        |                 |          |          |        |
+| Dae Geup Hyung(8)  |        |                 |          |          |        |
+| Guhm Moo Hyung   |        |                 |          |          |        |
+| Baek Pahl Ki Hyung    |        |                 |          |          |        |
+| Kyuk Pa Hyung    |        |                 |          |          |        |
 
 ---
+| Requirement         | Status | Reference Video | My Video | Feedback | Action |
+| ------------------- | ------ | --------------- | -------- | -------- | ------ |
+| Ki Bahn Bong   |        |                 |          |          |        |
+| Joong Bong Il Hyung |        |                 |          |          |        |
+
+
 
 ## Techniques
 
